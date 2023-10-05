@@ -1,13 +1,5 @@
 ### Hi 
-I'm Luna, 目前剛開始學習成為一個合格的網站開發人員， 希望藉由寫文章來充實自己， 也留下一些努力的紀錄。
-
-這是我的學習部落格 https://lunazhuang.github.io/ 
-
-這是我和夥伴做的專案
-
-github:https://github.com/AC11-notion-team
-
-zettel:https://www.zettel.tw/
+I'm Luna.
 
 <!--
 **LunaZhuang/LunaZhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
